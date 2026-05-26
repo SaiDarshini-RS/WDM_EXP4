@@ -14,8 +14,8 @@
 4) Visualize the result using matplotlib.
 
 ### Program:
-#### NAME : ANU RADHA N
-#### REG NO: 212223230018
+#### NAME : SAI DARSHINI R S
+#### REG NO: 212223230178
 ```
 import pandas as pd
 df = pd.read_csv("C:/Users/admin/Desktop/Web-Data-Mining/clustervisitor.csv")
